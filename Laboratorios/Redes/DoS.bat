@@ -1,0 +1,8 @@
+:loop
+echo Prueba de Ejecución de un DOS Local
+
+ping -t 10.13.181.190
+
+goto loop
+
+pause

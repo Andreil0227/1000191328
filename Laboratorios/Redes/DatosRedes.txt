@@ -1,0 +1,7 @@
+Hostname: Nombre de la maquina.
+ping localhost: 127.0.0.1 para todos.
+ping <nombre del host>: Es lo mismo que el ping localhost.
+ping ip -t: Manda maquetes sostenidos.
+netstat: Ver los paquetes que nos han enviado.
+getmac: Obtiene la dirección MAC
+nslookup y nom: Nombre, diagnostico, ip
