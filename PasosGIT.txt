@@ -1,3 +1,5 @@
+El repositorio se clona con "git clone <Link>"
+
 git add .
 
 git commit -m "Redes WAN y comandos"

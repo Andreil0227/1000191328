@@ -1,0 +1,11 @@
+Host
+Nombre: DESKTOP-E35DCN3
+IP: 10.13.165.6(Preferido)
+MAC: A0-B3-39-3C-A0-1E
+
+
+Guest
+
+Nombre:windows 11
+IP: 10.13.161.6
+MAC: 08-00-27-C9-72-10

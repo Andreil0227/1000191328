@@ -1,0 +1,19 @@
+Tienda de Ropa TalentotechClothes
+
+Descripción:
+La tienda de ropa "TalentoTechClothes" requiere llevar un registro y aseguramiento de las actividades relacionadas 
+con su nucleo de negrocio (ventas), reakizadas por sus vendedores en sus diferentes sedes a nivel nacional e internacional
+a traves de su sitio web de ventas en linea.
+
+Nombre Empresa: TalentotechClothes.
+Proceso: Ventas.
+Personas: Vendedores, Clientes, Proveedores.
+Tecnologia: Tienda Virtual web.
+Rol de seguridad: Auditor, Consultor
+
+
+
+Tienda de venta de música vinilos la aguja errante.:
+
+Descripción:
+La tienda
