@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Otros - Explorador de archivos",
+  "Type": "Screen",
+  "Id": "iMmB2EFGSUCmNU-VgVbdxA",
+  "Reference": "xqn8vJ2EGUia7D81AcU5Zg/iMmB2EFGSUCmNU-VgVbdxA",
+  "ParentRef": "xqn8vJ2EGUia7D81AcU5Zg/7i1fA1AAvEmSNGarTedLTg",
+  "Created": "2025-08-07T02:43:23.4313303Z",
+  "Updated": "2025-08-07T02:43:23.4313303Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

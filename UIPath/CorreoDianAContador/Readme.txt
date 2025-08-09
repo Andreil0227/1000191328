@@ -1,0 +1,3 @@
+Robot creado con el fin de que se inicie cuando llega un nuevo correo, en este caso que los correos de la DIAN (Autoridad de impuestos de Colombia) pasen directamente a un tercero como seria en este caso el contador. Adaptable para cualquier tipo de correo. En Gmail
+
+A robot designed to activate when a new email is received—specifically, emails from the DIAN (Colombian tax authority) are automatically forwarded to a third party, such as an accountant. Adaptable for any type of email. Works in Gmail.
