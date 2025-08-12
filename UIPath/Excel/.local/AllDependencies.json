@@ -16760,9 +16760,9 @@
     "restore": {
       "projectUniqueName": "Excel",
       "projectName": "Excel",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Programación\\GithubPortafolio\\1000191328\\Nueva carpeta\\Excel\\.local",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Programación\\GithubPortafolio\\1000191328\\UIPath\\Excel\\.local",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Programación\\GithubPortafolio\\1000191328\\Nueva carpeta\\Excel\\.local",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Programación\\GithubPortafolio\\1000191328\\UIPath\\Excel\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
